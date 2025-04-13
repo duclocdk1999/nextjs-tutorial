@@ -1,5 +1,5 @@
 import '@/app/ui/global.css'
-import { courier, inter, roboto,  } from './ui/fonts';
+import { courier } from './ui/fonts';
 
 
 export default function RootLayout({
